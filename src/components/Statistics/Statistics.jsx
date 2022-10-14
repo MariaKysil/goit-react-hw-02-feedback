@@ -10,7 +10,7 @@ export const Statistics = ({
 }) => {
   return (
     <Wrapper>
-      <li>Good:{good}</li>
+      <li>Good: {good}</li>
       <li>Neutral: {neutral}</li>
       <li>Bad: {bad}</li>
       <li>Total: {total}</li>
